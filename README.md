@@ -1,4 +1,4 @@
-[![BradMHunter](https://circleci.com/gh/BradMHunter/udacity-project-four.svg?style=svg)](https://app.circleci.com/pipelines/github/BradMHunter/udacity-project-four)
+[![BradMHunter](https://circleci.com/gh/BradMHunter/Project4.svg?style=svg)](https://app.circleci.com/pipelines/github/BradMHunter/Project4)
 
 ## Project Overview
 
